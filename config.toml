@@ -1,7 +1,7 @@
 
 baseURL = "https://gerrieosimowicz.com/"
 languageCode = "en-us"
-title = "Gerrie Osimowicz"
+title = 'In memoriam Geraldine "Gerrie" Osimowicz'
 theme = "notrack"
 newContentEditor = "nvim"
 #mainSections = ["blog"]
@@ -10,7 +10,7 @@ paginate = 4
 
 [params]
   author = "Gerrie Osimowicz"
-  siteHeading = "Gerrie Osimowicz" # defaults to author
+  siteHeading = 'In memoriam of Geraldine "Gerrie" Osimowicz' # defaults to author
   #showBlogLatest = true
   #mainSections = ["blog"]
   showTaxonomyLinks = false
