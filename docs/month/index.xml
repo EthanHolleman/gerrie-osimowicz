@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gerrie Osimowicz</title>
-        <link>https://gerrieosimowicz.com/month/</link>
+        <link>http://gerrieosimowicz.com/month/</link>
         <description>Latest blog posts from Gerrie Osimowicz</description>
 
         
@@ -18,7 +18,7 @@
         
 
         
-        <atom:link href="https://gerrieosimowicz.com/month/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://gerrieosimowicz.com/month/index.xml" rel="self" type="application/rss+xml" />
         
 
         
