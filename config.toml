@@ -10,7 +10,7 @@ paginate = 4
 
 [params]
   author = "Gerrie Osimowicz"
-  siteHeading = 'In memoriam of Geraldine "Gerrie" Osimowicz' # defaults to author
+  siteHeading = 'In Memoriam Geraldine “Gerrie” Harriet Osimowicz' # defaults to author
   #showBlogLatest = true
   #mainSections = ["blog"]
   showTaxonomyLinks = false
