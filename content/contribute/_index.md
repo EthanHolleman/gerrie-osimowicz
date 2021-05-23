@@ -14,7 +14,7 @@ images by [clicking this link](https://forms.gle/wWCXn3Zcr9c4Y2Hk9) and completi
 the form. 
 
 You can also optionally include a short description of the image and 
-the approximate date it was taken. This will be helpful in organizing submit 
+the approximate date it was taken. This will be helpful in organizing submitted 
 images for the memorial. 
 
 If you have any problems uploading or have additional questions please feel
