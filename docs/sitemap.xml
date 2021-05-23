@@ -3,61 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/categories/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/tags/latin/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/categories/lorem/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/tags/medieval/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/memorial-info/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/tags/picture/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/memorial-info/id-modi/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/tags/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/categories/theme/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/</loc>
+    <loc>http://gerrieosimowicz.com/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/month/</loc>
+    <loc>http://gerrieosimowicz.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://ethanholleman.com/gerrie-osimowicz/year/</loc>
+    <loc>http://gerrieosimowicz.com/memorial-info/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gerrieosimowicz.com/month/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gerrieosimowicz.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gerrieosimowicz.com/year/</loc>
   </url>
   
 </urlset>

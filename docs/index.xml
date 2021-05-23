@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gerrie Osimowicz</title>
-        <link>http://ethanholleman.com/gerrie-osimowicz/</link>
+        <link>http://gerrieosimowicz.com/</link>
         <description>Latest blog posts from Gerrie Osimowicz</description>
 
         
@@ -20,22 +20,9 @@
         
 
         
-        <atom:link href="http://ethanholleman.com/gerrie-osimowicz/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://gerrieosimowicz.com/index.xml" rel="self" type="application/rss+xml" />
         
 
-        
-            
-        <item>
-          <title>Picture Shortcode Test</title>
-          <link>http://ethanholleman.com/gerrie-osimowicz/memorial-info/id-modi/</link>
-          <pubDate>Thu, 04 Jun 2020 23:30:14 +0200</pubDate>
-          
-          <guid>http://ethanholleman.com/gerrie-osimowicz/memorial-info/id-modi/</guid>
-          <description>Id Modi Id modi explicabo non accusantium accusantium. Voluptates laborum est exercitationem odit voluptate dicta laborum nemo. Dolorum et aliquam qui dolorem voluptates ducimus voluptatibus. Quia sunt molestiae id ut. Necessitatibus itaque sed unde sit repellendus sit. Error pariatur deserunt dignissimos saepe cupiditate beatae.
-Nemo animi
-Illum quae laudantium quia vel facere aliquid earum. Inventore culpa perspiciatis et veniam et amet distinctio. Facilis expedita doloremque voluptates nihil et sint commodi et.</description>
-        </item>
-            
         
     </channel>
 </rss>
