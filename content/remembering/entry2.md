@@ -1,7 +1,7 @@
 ---
 title: "Example entry 2"
 date: 1975-10-01
-draft: false
+draft: true
 menu:
   main:
     name: "Entry 2"
