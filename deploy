@@ -1,0 +1,8 @@
+#!/bin/bash
+hugo
+rm -rf docs/
+mv public docs
+cp CNAME docs/
+git add docs/
+git commit -m "rebuild site"
+git push
