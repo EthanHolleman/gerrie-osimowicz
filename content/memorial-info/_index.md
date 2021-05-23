@@ -1,16 +1,26 @@
 ---
-title: 'Memorial information'
+title: 'Memorial service information'
 layout: 'single'
 menu:
   main:
-    name: "Memorial information"
-    weight: 1
+    name: "Memorial service"
+    weight: 2
 ---
+
+# Date and time
+
+To be a announced.
+
 
 # Location
 
-This is where it is happening
+To be a announced.
 
 # Virtual attendance
 
-Log on here
+The memorial service will be available virtually [at this link](https://youtu.be/Cy2xt_3weKQ).
+You will only need a web browser to watch.
+
+Please contact Ethan Holleman at 8479225317 or etholleman@ucdavis.edu 
+if you are experiencing any problems or have questions 
+on how to view the service. 
