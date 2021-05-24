@@ -27,9 +27,13 @@ Kelley & Spalding Funeral Home.
 The memorial service will be available virtually [at this link](https://youtu.be/XJCSWd9BnN8).
 You will only need a web browser to watch. The link will go live at about 11:45 AM.
 
+You can also watch the stream below.
+
+{{< youtube XJCSWd9BnN8 >}}
 
 Please contact Ethan Holleman at 8479225317 or etholleman@ucdavis.edu 
 if you are experiencing any problems or have questions 
 on how to view the service. 
 
 
+m/watch?v=EE7ug2okU-E
