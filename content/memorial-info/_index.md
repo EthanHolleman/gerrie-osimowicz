@@ -22,6 +22,8 @@ Kelley & Spalding Funeral Home.
 
 1787 Deerfield Road Highland Park, IL 60035
 
+The family welcomes in-person guests who are fully vaccinated. If you are not vaccinated, please join us virtually.
+
 # Virtual attendance
 
 The memorial service will be available virtually [at this link](https://youtu.be/XJCSWd9BnN8).
