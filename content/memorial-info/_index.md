@@ -24,7 +24,7 @@ Kelley & Spalding Funeral Home.
 
 # Virtual attendance
 
-The memorial service will be available virtually [at this link](https://www.youtube.com/watch?v=Cy2xt_3weKQ).
+The memorial service will be available virtually [at this link](https://youtu.be/XJCSWd9BnN8).
 You will only need a web browser to watch. The link will go live at about 11:45 AM.
 
 
