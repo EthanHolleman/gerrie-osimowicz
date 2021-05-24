@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="20em" frame="true" caption="" src="img/tuan-nguyen-Rd9fPrE3s_U-unsplash.jpg" >}}
+{{<image float="right" width="20em" frame="true" caption="" src="img/gerrie2.jpg" >}}
 
 Geraldine “Gerrie” Harriet Osimowicz was a caring daughter, sister, aunt, and friend. She passed on May 22, 2021, at the age of 88.
 
