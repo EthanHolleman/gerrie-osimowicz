@@ -34,6 +34,3 @@ You can also watch the stream below.
 Please contact Ethan Holleman at 8479225317 or etholleman@ucdavis.edu 
 if you are experiencing any problems or have questions 
 on how to view the service. 
-
-
-m/watch?v=EE7ug2okU-E
