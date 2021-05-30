@@ -4,7 +4,7 @@ layout: 'single'
 menu:
   main:
     name: "Slideshow"
-    weight: 2
+    weight: 4
 ---
 
 The slideshow played at Gerrie's memorial service. Click below to watch. 

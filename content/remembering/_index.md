@@ -1,8 +1,8 @@
 ---
-title: 'Remembering Gerrie'
+title: 'Gerrie through the years'
 layout: 'archives'
 menu:
   main:
-    name: "Remembering Gerrie"
-    weight: 2
+    name: "Gerrie through the years"
+    weight: 3
 ---

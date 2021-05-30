@@ -1,11 +1,14 @@
 ---
-title: 'Memorial service'
-layout: 'baseof'
+title: "Service information"
+date: 2021-29-05
+draft: false
 menu:
   main:
-    name: "Memorial service"
-    weight: 2
+    name: "Service information"
+    parent: "Memorial service"
+    weight: 50
 ---
+
 
 # Date and time
 

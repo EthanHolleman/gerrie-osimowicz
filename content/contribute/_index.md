@@ -4,7 +4,7 @@ layout: 'single'
 menu:
   main:
     name: "Contribute memories"
-    weight: 3
+    weight: 5
 ---
 
 Geraldine was a part of many lives and we are collecting images from her
